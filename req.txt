@@ -1,0 +1,4 @@
+psutil
+watchdog
+py-tlsh
+pywin32
